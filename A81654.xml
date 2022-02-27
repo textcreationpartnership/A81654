@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arraignment. By the Lady Eleanor</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81654</idno>
+            <idno type="STC">Wing D1972B</idno>
+            <idno type="STC">ESTC R231412</idno>
+            <idno type="EEBO-CITATION">99899958</idno>
+            <idno type="PROQUEST">99899958</idno>
+            <idno type="VID">137018</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137018)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arraignment. By the Lady Eleanor</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137018:1"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE Arraignment.</p>
+            <p>By the Lady <hi>Eleanor.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>MARK 9.</hi>
+               </bibl>
+And he ſaid unto them, verily I ſay unto you, that there be ſome of them that ſtand here, which ſhall not taſte of death till they ſee the Kingdom of God come with power.</q>
+            <p>Printed in the year, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:137018:2"/>
+            <!-- PDF PAGE 2 -->
+            <epigraph>
+               <q>
+                  <bibl>MARK 9.</bibl> And whoſoever ſhall offend one of theſe little ONES that believe in me, &amp;c.</q>
+            </epigraph>
+            <p>ANd ſo who ſhould be greateſt, or bear the ſway; this Leſſon appointed for the preſent, occaſion<g ref="char:EOLhyphen"/>ed upon that diſpute: Alſo to whom it points about a Thing, of no little weight doubtleſs, where declared, <hi>A milſtone better hanged about his neck,</hi> be he whoſoever, ſtanding no better on his guard, (the ſafe-guard of no few) on whoſe behavior or vigilancy depends, to whoſe lot the Milſtone falls as follows, even the Military or
+<pb n="3" facs="tcp:137018:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 2 -->Sword profeſsion, their judgement here called to hold up their hand at the Bar; behold as this ſeals it a free paſſage: Verſe, <hi>And if thy hand of<g ref="char:EOLhyphen"/>fend thee cut it off, it is better for thee to enter into life maimed;</hi> likewiſe of the foot, <hi>Better to enter halt into life, &amp;c.</hi> VVhere by the natural Bo<g ref="char:EOLhyphen"/>dy, reports the caſe concerning the politique, to ſlight the leaſt or loweſt degree, <hi>coming in his name how perilous.</hi>
+            </p>
+            <p>So here anatomiz'd whoſe Fa<g ref="char:EOLhyphen"/>ther diſcern I pray: <hi>Then loſe a foot, ſuffered his whole body to periſh,</hi> who thought little of the thrid or term cut off ſo of his days: By means of a feſtred Toe, a Corn, turned to a <hi>Gangren</hi> dyed, falling into a vio<g ref="char:EOLhyphen"/>lent Feaver, that very <hi>Ignis non extinguitur,</hi> or VVilde-fire, his
+<pb n="4" facs="tcp:137018:3"/>
+               <!-- PDF PAGE 3 -->doughty heart leaving it to his heir how paterizaring, of late far and near not unknown miſled or overmaſter'd when put on his tryal, what metel or ſalt in him: Better much had been without aſsiſtants ſuch hands, eyes, or feet, unleſs more command over himſelf had, whether friends, wife or followers.</p>
+            <p>From the Omnipotent General, Lord of Hoſts when as ſent unto, dreading neither ſacred watch words theſe or Alarm: Theſe thunderings vouchſafed not ſo much as to ſee the party, the like unparaleld in Divine preſidents or other, of ſuch greatneſs ſtood upon or manhood notwith<g ref="char:EOLhyphen"/>ſtanding, <hi>Quiſquis ſcandalizaverit unum ex his,</hi> be he never ſo eminent, his doom in the bottom of the Sea
+<pb n="5" facs="tcp:137018:3"/>
+               <!-- PDF PAGE 3 -->better to have taken up his quarters: To whom had ſome great thing been commanded, <hi>To have departed his na<g ref="char:EOLhyphen"/>tive ſoil, or half his goods have parted a<g ref="char:EOLhyphen"/>mong the poor,</hi> how much rather, but when to lend an ear required: Even cowardize in the higheſt degree, or weaknes, who keeps his diſtance with ſuch, thereafter from his preſence ex<g ref="char:EOLhyphen"/>cluded as far (as much to ſay) <hi>Write their Epitaph on the ſand, reward them with a cup filled double, a portion let them be for fiſhes, all as deaf and mute like themſelves, no burier, &amp;c.</hi>
+            </p>
+            <p>And for ſuch Saints, ſo much ſuf<g ref="char:EOLhyphen"/>fices; as his name, <hi>THOMAS DYDIMO<g ref="char:V">Ʋ</g>S, &amp;c.</hi> and for them alſo whoſe voyce the mountains o<g ref="char:EOLhyphen"/>bey, or Monarchs confined them to the ocean, Trees no ſmall ones
+<pb n="6" facs="tcp:137018:4"/>
+               <!-- PDF PAGE 4 -->plucks up by the roots, whoſe eſtate <hi>bleſt when hated and curſed, in poverty rich, their cottage Heaven.</hi>
+            </p>
+            <p>Againſt whom, all their Enemies can alledge, for ſilencing the Holy Ghoſt thus; or to cloak their arrogan<g ref="char:EOLhyphen"/>cy, is becauſe, former times as it were barren ſigns and token diſcontinued, therefore aboliſhed, That may affirm as well, or maintain Hell ſhall prevail againſt Heaven, as that ordinary ſpi<g ref="char:EOLhyphen"/>rits ſhall unſeal the Books of Pro<g ref="char:EOLhyphen"/>phets, or that other Book (ſo ſtiled) Revel. 20. <hi>And I ſaw another book o<g ref="char:EOLhyphen"/>pened, &amp;c.</hi> to be explained ever by them, <hi>The word of the Lord induring for ever having ſpoken it,</hi> Iſa. 40. <hi>What<g ref="char:EOLhyphen"/>ſoever is crooked, ſhall be made ſtrait, And the rough be made plain fields,</hi> the voyce of deſerts accompanying it as
+<pb n="7" facs="tcp:137018:4"/>
+               <!-- PDF PAGE 4 -->thoſe waſte parts at this day, though depopulated, <hi>again to be ploughed as in days of old; proclaiming the Spirit of Propheſie oppoſed, though ſhall prevail, The firſt and the laſt,</hi> in the mean time that begets theſe diſtractions to de<g ref="char:EOLhyphen"/>ſtroy themſelves: The Bottomleſs Pit witneſs, as they term it (or Abyſs) even when heaven opened; the other its poyſonous Fogs as free (<hi>Apoc.</hi> 9.) That Aſſemblies deſcription. <hi>Latine habens nomen exterminans.</hi>
+            </p>
+            <p>VVhere laſtly, after that ample admonition (of health compared to Heaven, and languiſhing ſickneſs to Hell) by way of Terror, expreſsing the laſt general day of judgement, at hand, with ambition how ſeaſon<g ref="char:EOLhyphen"/>able; <hi>as his WIVES looking back to Sodom, verſ.</hi> as here bidden, <hi>To
+<pb n="8" facs="tcp:137018:5"/>
+                  <!-- PDF PAGE 5 -->have ſalt in themſelves,</hi> the ſpirit judgement, without which never expect to have other reſt, or to be found in peace at his coming, even to try the ſpirits, &amp;c. each thing in its ſeaſon, ſalt the life being of all things, quinteſſence of the ele<g ref="char:EOLhyphen"/>ments, both the good ſpirit re<g ref="char:EOLhyphen"/>ſembles and the bad, the beſt of all things and the worſt, for the dunghil not profitable, otherwiſe nothing ſo pure, to have a diſcern<g ref="char:EOLhyphen"/>ing ſpirit the ſum of all.</p>
+            <p>VVhere touching the perpetuity of the aforeſaid fire and worm: The old explaining the other; herewith to go forward a Leſſon proper for the age: <hi>And the men that have tranſgreſ<g ref="char:EOLhyphen"/>ſed</hi>
+               <pb n="9" facs="tcp:137018:5"/>
+               <!-- PDF PAGE 5 -->(Iſaiah the laſt) <hi>for their worm ſhall not dye; neither ſhall their fire be quenched;</hi> as much to ſay, the latter or laſt day approach'd: <hi>No more dry bones hence-forth, whoſe worm ſhall continue or remain in them;</hi> as moreover, <hi>They ſhall be an abhorring to all fleſh,</hi> (to wit) <hi>their in<g ref="char:EOLhyphen"/>tollerable ſtink able to poyſon man and beaſt, &amp;c.</hi> alſo of Calenders out of date; but from new Moon to new Moon, from Sabbath to Sabbath, like weekly Bills of mortality.</p>
+            <p>And ſo much for this <hi>Habeas Cor<g ref="char:EOLhyphen"/>pus,</hi> or moderating the ſeverity of ſuch places, concerning their enlargement one word, where ſerves both for the grave and hell, ſuppoſed to be without redemption, as from this place ſuch another Abys, ſaying, <hi>Deſcidite Ma<g ref="char:EOLhyphen"/>ledicti,</hi> aluding to the different ſeaſons,
+<pb n="10" facs="tcp:137018:6"/>
+               <!-- PDF PAGE 6 -->the life and death of the creature, when the Sun enters into <hi>Aries,</hi> the reviving Spring, and in <hi>Capricorn</hi> VVinters tedious nights <hi>Decembers, preparing fuel, &amp;c.</hi> Mat. 25. <hi>ſhadowed under the ſheep on the one hand, the goats on the other,</hi> leſt ſurpriſed unawares as the old world by the deluge, <hi>to have oyl in their lamps all, &amp;c. when ſome taken up in the air, changd, in a moment, after the Trumpets loud alarm, others ſwallowed up by ſea and land.</hi>
+            </p>
+            <p>So again, for his ſhewing afterward <hi>Every ſacrifice ſhall be ſeaſoned with ſalt,</hi> bidden to have <hi>Salt and peace, &amp;c.</hi> re<g ref="char:EOLhyphen"/>fers to another paſſage in the Levi<g ref="char:EOLhyphen"/>tical Law, their Peace-Offerings, <hi>The Prieſts laying his hand on the head of the Oblation,</hi> as it were at the bar holds up his hand, in behalf of
+<pb n="11" facs="tcp:137018:6"/>
+               <!-- PDF PAGE 6 -->himſelf and the people, under a groſs cloud of ignorance, acknowledging guilty of that creatures ſufferings, ſha<g ref="char:EOLhyphen"/>dowing forth what they liable unto.</p>
+            <p>Alſo for ſetting at large the ful mean<g ref="char:EOLhyphen"/>ing of theſe, without needleſs Apolo<g ref="char:EOLhyphen"/>gy, by way of what tedious objection might require, farther to ſhew the depth and plenitude of this place of Scripture, like the fiery pillars light ſide, and dark toward others, even of its deſcending to Humane Sciences, Divinities Handmayds: a word more from the VVhale to the VVorm, from the Milſtone to the peble, <hi>nothing to be deſpiſed,</hi> as commodious and uſeful the the leaſt as the greateſt, even ſo points to our everlaſting arms, that of material ſalt, or ſulpherous Barrels of powder to be provided that way; alſo
+<pb n="12" facs="tcp:137018:7"/>
+               <!-- PDF PAGE 7 -->the endleſs worm to have match in like readineſs: And that fire unquench<g ref="char:EOLhyphen"/>able, the flint for another, as before ſhewd, ſuppoſing to quench the Spirit by way of retaliation, our <hi>Capernaums</hi> alarm, or caveat enterd diſeſteemed o<g ref="char:EOLhyphen"/>ther, themſelves to be abaſed as low next door to his doom, <hi>Good for that man had he been unborn, to exalt them<g ref="char:EOLhyphen"/>ſelves like thoſe rebels,</hi> gain-ſaying <hi>CORE</hi> and his fifties rewarded.</p>
+            <p>
+               <hi>And thus in his name, concluding by vertue of his all-ſufficent Arm, that faſted forty days, I charge thee thou deaf and dumb foul ſpirit, wherewith poſſeſt from his infancy, &amp;c. thou melancholick ſpirit, come forth of him, and enter no more into him.</hi>
+            </p>
+            <closer>
+               <signed>Jubile Lent.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
